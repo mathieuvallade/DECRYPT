@@ -17,7 +17,7 @@ Pour utiliser le programme, il suffit de lancer votre application QT, d'ouvrir l
 Assurez-vous de modifier le chemin de fichier texte à la ligne 30 et verifiez que le fichier à déchiffrer se trouve dans le même répertoire que le main.cpp.
 <div align="center">
   </br>
-  <img src="Images/ligne30.png" alt="Message reçu terminal" height="50">
+  <img src="Images/ligne30.png" alt="Message reçu terminal" height="25">
   </br></br>
 </div>
 

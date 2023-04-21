@@ -1,3 +1,5 @@
+<div id="top"></div>
+
 # TP C++ Dechiffrage
 
 Dechiffrage est un petit programme en C++ qui permet de déchiffrer un fichier texte dans lequel se trouve un mot caché. Le programme est réalisé avec la bibliothèque Qt.
@@ -14,12 +16,26 @@ git clone https://github.com/mathieuvallade/Dechiffrage.git
 
 Pour utiliser le programme, il suffit de lancer votre application QT, d'ouvrir le projet "TP_Dechiffrage", d'executer le programme. Une fois cela fais, une fenetre apparait et il vous suffit d'entrer le nom du fichier à déchiffrer ("Poeme.txt" dans notre cas) dans la zone de texte prévue à cet effet. Ensuite, cliquez sur le bouton "Déchiffrer" pour afficher le mot caché dans le fichier.
 
-Assurez-vous de modifier le chemin de fichier texte à la ligne 30 et verifiez que le fichier à déchiffrer se trouve dans le même répertoire que le main.cpp.
-<div align="center">
+Assurez-vous de modifier le chemin de fichier texte à la ligne 30 et verifiez ce fichier se trouve dans le même répertoire que le projet.
   </br>
-  <img src="images/ligne30.png" alt="Message reçu terminal" height="200">
+  <img src="Images/ligne30.png" alt="Message reçu terminal" height="25">
   </br></br>
 </div>
+
+## Résultats
+
+Lorsque vous executez le programme, voici la fenetre qui apparait :
+<div>
+    <img src="Images/Fenetre.png" width="433" height="182">
+  </br></br>
+</div>
+
+Il vous suffit de rentrer le nom du fichier texte dans le zone prévue pour et de cliquer sur "Déchiffrer". Ensuite, la fênetre vous renverra le message caché.
+<div>
+    <img src="Images/Result.png"  width="426" height="180">
+  </br></br>
+</div>
+Un jeu d'enfant vous voyez !
 
 ## Auteur
 

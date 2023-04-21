@@ -38,7 +38,7 @@ C'est un magnifique poème, n'est-ce pas ? Et si je vous disais qu'un mot était
 
 ## DECRYPT
 
-__DECRYPT__ est un petit programme en C++ qui permet de déchiffrer un fichier texte dans lequel se trouve un mot caché. Le programme est réalisé avec la bibliothèque Qt.
+__DECRYPT__ est un petit programme informatique réalisé en langage C++ avec la bibliothèque Qt. Il permet de déchiffrer un fichier texte dans lequel un mot est caché en utilisant une méthode spécifique de substitution. Ce programme a été créé dans le cadre d'un cours de C++ afin d'améliorer les connaissances des étudiants sur ce langage de programmation et sur la bibliothèque Qt.
 
 ## Installation
 

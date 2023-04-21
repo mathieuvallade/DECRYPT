@@ -31,6 +31,9 @@ C'est un magnifique poème, n'est-ce pas ? Et si je vous disais qu'un mot était
       <a href="#Installation">Installation</a>
     </li>
     <li>
+      <a href="#Utilisation">Utilisation</a>
+    </li>
+    <li>
       <a href="#À-vous-de-jouer">À vous de jouer</a>
   </ol>
 </details>

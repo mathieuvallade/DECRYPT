@@ -24,11 +24,17 @@ Assurez-vous de modifier le chemin de fichier texte à la ligne 30 et verifiez c
 
 ## Résultats
 
-Lorsqu'on execute le programme, voici la fenetre qui apparait :
+Lorsque vous executez le programme, voici la fenetre qui apparait :
 <div align="center">
-    <img src="Images/Fenetre.png" alt="Thon player" width="433" height="182">
-  </a>
+    <img src="Images/Fenetre.png" width="433" height="182">
+  </br></br>
+</div>
 
+Il vous suffit de rentrer le nom du fichier texte dans le zone prévue pour et la fênetre vous renverra le message caché.
+<div align="center">
+    <img src="Images/Result.png"  width="426" height="180">
+  </br></br>
+</div>
 
 ## Auteur
 

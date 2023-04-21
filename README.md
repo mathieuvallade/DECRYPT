@@ -23,10 +23,11 @@ Assurez-vous de modifier le chemin de fichier texte à la ligne 30 et verifiez c
 
 ## Résultats
 
+Lorsqu'on execute le programme, voici la fenetre qui apparait :
 <div align="center">
     <img src="Images/Fenetre.png" alt="Thon player" width="150" height="120">
   </a>
-Lorsqu'on execute le programme, voici la fenetre qui apparait :
+
 
 ## Auteur
 

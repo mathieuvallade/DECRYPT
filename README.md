@@ -27,7 +27,7 @@ Decrypt est un petit programme en C++ qui permet de déchiffrer un fichier texte
 Pour installer le programme, vous pouvez cloner le dépôt git :
 
 ```
-git clone https://github.com/mathieuvallade/Dechiffrage.git
+git clone https://github.com/mathieuvallade/DECRYPT.git
 ```
 ou
 ```

@@ -1,14 +1,14 @@
 <div id="top"></div>
 
 __Envolé dans le ciel, l'oiseau chante sa mélodie,__  
-_Lentement, il bat des ailes et vole vers l'infini,__  
-_Emportant avec lui mes soucis et mes peines,__  
-_Purifiant mon âme de toutes ses chaînes.__
+__Lentement, il bat des ailes et vole vers l'infini,__  
+__Emportant avec lui mes soucis et mes peines,__  
+__Purifiant mon âme de toutes ses chaînes.__
 
-_Haut dans les nuages, il trouve sa liberté,__  
-_Apportant la paix à mon esprit tourmenté,__  
-_Naviguant dans l'azur, il est le symbole de l'espoir,__  
-_Témoignant de la beauté que recèle le pouvoir.__
+__Haut dans les nuages, il trouve sa liberté,__  
+__Apportant la paix à mon esprit tourmenté,__  
+__Naviguant dans l'azur, il est le symbole de l'espoir,__  
+__Témoignant de la beauté que recèle le pouvoir.__
 
 *Chat GPT*  
 *21 Avril 2023*

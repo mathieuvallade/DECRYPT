@@ -11,7 +11,7 @@
 int main(int argc, char *argv[]) {
     QApplication app(argc, argv);
 
-    // Création de l'interface utilisateur
+
     QWidget *fenetre = new QWidget();
     QVBoxLayout *layout = new QVBoxLayout();
     QLabel *label = new QLabel("Entrez le chemin d'accès complet du fichier à déchiffrer :");
@@ -24,7 +24,6 @@ int main(int argc, char *argv[]) {
     layout->addWidget(resultat);
     fenetre->setLayout(layout);
 
-    // Traitement du clic sur le bouton
     QObject::connect(bouton, &QPushButton::clicked, [&](){
         QString chemin_fichier = lineEdit->text();
         QFile fichier(chemin_fichier);

@@ -1,3 +1,4 @@
+<div id="top"></div>
 # TP C++ Dechiffrage
 
 Dechiffrage est un petit programme en C++ qui permet de déchiffrer un fichier texte dans lequel se trouve un mot caché. Le programme est réalisé avec la bibliothèque Qt.
@@ -22,6 +23,9 @@ Assurez-vous de modifier le chemin de fichier texte à la ligne 30 et verifiez c
 
 ## Résultats
 
+<div align="center">
+    <img src="Images/Fenetre.png" alt="Thon player" width="150" height="120">
+  </a>
 Lorsqu'on execute le programme, voici la fenetre qui apparait :
 
 ## Auteur

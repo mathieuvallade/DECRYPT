@@ -27,7 +27,7 @@ int main(int argc, char *argv[]) {
     // Traitement du clic sur le bouton
     QObject::connect(bouton, &QPushButton::clicked, [&](){
         QString chemin_fichier = lineEdit->text();
-        QFile fichier("/home/freezorce/Documents/Dechiffrage/Poeme.txt");
+        QFile fichier(chemin_fichier);
         QString mot_caché;
         if (!fichier.exists()) {
             resultat->setText("Le fichier n'existe pas");

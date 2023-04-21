@@ -1,21 +1,21 @@
 <div id="top"></div>
 
-Envolé dans le ciel, l'oiseau chante sa mélodie,
+*Envolé dans le ciel, l'oiseau chante sa mélodie,*
 
-Lentement, il bat des ailes et vole vers l'infini,
+*Lentement, il bat des ailes et vole vers l'infini,*
 
-Emportant avec lui mes soucis et mes peines,
+*Emportant avec lui mes soucis et mes peines,*
 
-Purifiant mon âme de toutes ses chaînes.
+*Purifiant mon âme de toutes ses chaînes.*
 
 
-Haut dans les nuages, il trouve sa liberté,
+*Haut dans les nuages, il trouve sa liberté,*
 
-Apportant la paix à mon esprit tourmenté,
+*Apportant la paix à mon esprit tourmenté,*
 
-Naviguant dans l'azur, il est le symbole de l'espoir,
+*Naviguant dans l'azur, il est le symbole de l'espoir,*
 
-Témoignant de la beauté que recèle le pouvoir.
+*Témoignant de la beauté que recèle le pouvoir.*
 
 Chat GPT 
 21 Avril 2023

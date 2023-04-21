@@ -7,7 +7,7 @@ Dechiffrage est un petit programme en C++ qui permet de déchiffrer un fichier t
 Pour installer le programme, vous pouvez cloner le dépôt git et compiler le code source avec Qt Creator. Assurez-vous d'avoir installé la version de Qt appropriée sur votre système.
 
 ```
-git clone https://github.com/votre_nom/decrypter.git
+git clone https://github.com/mathieuvallade/Dechiffrage.git
 ```
 
 ## Utilisation

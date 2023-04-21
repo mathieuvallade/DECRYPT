@@ -1,28 +1,17 @@
 <div id="top"></div>
 
-*Envolé dans le ciel, l'oiseau chante sa mélodie,*
-
-*Lentement, il bat des ailes et vole vers l'infini,*
-
-*Emportant avec lui mes soucis et mes peines,*
-
+*Envolé dans le ciel, l'oiseau chante sa mélodie,* 
+*Lentement, il bat des ailes et vole vers l'infini,* 
+*Emportant avec lui mes soucis et mes peines,* 
 *Purifiant mon âme de toutes ses chaînes.*
 
+*Haut dans les nuages, il trouve sa liberté,* 
+*Apportant la paix à mon esprit tourmenté,* 
+*Naviguant dans l'azur, il est le symbole de l'espoir,* 
+*Témoignant de la beauté que recèle le pouvoir.* 
 
-*Haut dans les nuages, il trouve sa liberté,*
-
-*Apportant la paix à mon esprit tourmenté,*
-
-*Naviguant dans l'azur, il est le symbole de l'espoir,*
-
-*Témoignant de la beauté que recèle le pouvoir.*
-</div>
-__Chat GPT__
-</div>
-__21 Avril 2023__
-</div>
-
-
+__Chat GPT__ 
+__21 Avril 2023__ 
 
 C’est un magnifique poème n’est ce pas ! Et si je vous disais qu’un mot était caché dans ce poème me croirai vous ?
 

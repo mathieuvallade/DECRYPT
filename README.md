@@ -16,7 +16,7 @@ __*ChatGPT*__
 __*21 Avril 2023*__
 
 
-C’est un magnifique poème n’est ce pas ! Et si je vous disais qu’un mot était caché dans ce poème me croirai vous ? Aller, suivez moi attentivement, je vais montrer comment déchiffrer ce poème grâce au super programme __DECRYPT__.
+C'est un magnifique poème, n'est-ce pas ? Et si je vous disais qu'un mot était caché dans ce poème, me croiriez-vous ? Suivez-moi attentivement, je vais vous montrer comment déchiffrer ce poème grâce au super programme __DECRYPT__.
 
 ## DECRYPT
 
@@ -34,30 +34,32 @@ ou
 git clone git@github.com:mathieuvallade/DECRYPT.git
 ```
 ## Utilisation
-__DECRYPT__ est maintenant installé, nous allons bientot pouvoir dechiffrer notre incroyable poème afin d'y trouver le mot caché.
-Ensuite, aller dans le repertoire "Executable_file" afin d'y trouver le fichier __DECRYPT__ et l'executer.
+Maintenant que __DECRYPT__ est installé, nous pouvons bientôt déchiffrer notre incroyable poème pour y trouver le mot caché.
+Pour ce faire, allez dans le répertoire "Executable_file" où se trouve le fichier __DECRYPT__ et exécutez-le.
 Pour ce faire :
 
 ```
 cd DECRYTP/Executable_file
 ./DECRYPT
 ```
-L'application se lance et cette fenêtre apparait :
+L'application se lance et cette fenêtre apparaît :
 
 <div>
     <img src="Images/Fenetre.png" width="433" height="182">
   </br></br>
 </div>
 
-Il vous suffit d'indiquer le nom du fichier texte ainsi que le chemin de ce fichier : __/home/yourmachinename/DECRYPT/Poeme.txt__
+Il vous suffit d'indiquer le nom du fichier texte ainsi que son chemin absolu :  __/home/yourmachinename/DECRYPT/Poeme.txt__
 
-Cliquer ensuite sur __Déchiffrer__ et l'application dechiffrera le poème.
+Cliquez ensuite sur le bouton __Déchiffrer__ et l'application va déchiffrer le poème
 <div>
     <img src="Images/Result.png"  width="426" height="180">
   </br></br>
 </div>
-Un jeu d'enfant vous voyez !
-Le mot caché était donc __ÉLÉPHANT__, chaque lettre de ce mot correspondent au première lettre de chaque vers.
+Et voila, un jeu d'enfant vous voyez !
+Le mot caché était donc ELEPHANT !  
+
+La méthode utilisée pour cacher le mot "éléphant" dans le poème consiste à prendre la première lettre de chaque vers et à les assembler pour former le mot caché. C'est une technique de stéganographie appelée "acrostiche", où les lettres initiales d'un ensemble de mots ou de phrases forment un mot ou une phrase cachée. Dans ce cas précis, le mot caché est "éléphant" et il est formé par la première lettre de chaque vers du poème.
 
 ## Auteur
 

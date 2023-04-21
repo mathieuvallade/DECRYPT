@@ -49,7 +49,8 @@ L'application se lance et cette fenêtre apparait :
   </br></br>
 </div>
 
-Il vous suffit de rentrer le nom du fichier texte dans le zone prévue pour et de cliquer sur "Déchiffrer". Ensuite, la fênetre vous renverra le message caché.
+Il vous suffit d'indiquer le nom du fichier texte ("Poeme.txt" dans notre cas),  ainsi que le chemin de ce fichier  __/home/yourmachinename/DECRYPT/Poeme.txt__
+
 <div>
     <img src="Images/Result.png"  width="426" height="180">
   </br></br>

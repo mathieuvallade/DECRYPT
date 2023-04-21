@@ -15,7 +15,6 @@ git clone https://github.com/mathieuvallade/Dechiffrage.git
 Pour utiliser le programme, il suffit de lancer votre application QT, d'ouvrir le projet "TP_Dechiffrage", d'executer le programme. Une fois cela fais, une fenetre apparait et il vous suffit d'entrer le nom du fichier à déchiffrer ("Poeme.txt" dans notre cas) dans la zone de texte prévue à cet effet. Ensuite, cliquez sur le bouton "Déchiffrer" pour afficher le mot caché dans le fichier.
 
 Assurez-vous de modifier le chemin de fichier texte à la ligne 30 et verifiez que le fichier à déchiffrer se trouve dans le même répertoire que le main.cpp.
-<align="left">
   </br>
   <img src="Images/ligne30.png" alt="Message reçu terminal" height="25">
   </br></br>

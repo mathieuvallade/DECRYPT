@@ -17,8 +17,8 @@
 
 *Témoignant de la beauté que recèle le pouvoir.*
 
-Chat GPT 
-21 Avril 2023
+_Chat GPT _
+_21 Avril 2023_
 
 
 C’est un magnifique poème n’est ce pas ! Et si je vous disais qu’un mot était caché dans ce poème me croirai vous ?

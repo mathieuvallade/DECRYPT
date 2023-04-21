@@ -1,5 +1,7 @@
 <div id="top"></div>
 
+# La mélodie du ciel
+
 __Envolé dans le ciel, l'oiseau chante sa mélodie,__  
 __Lentement, il bat des ailes et vole vers l'infini,__  
 __Emportant avec lui mes soucis et mes peines,__  
@@ -16,7 +18,7 @@ __Témoignant de la beauté que recèle le pouvoir.__
 
 C’est un magnifique poème n’est ce pas ! Et si je vous disais qu’un mot était caché dans ce poème me croirai vous ? Aller, suivez moi attentivement, je vais montrer comment déchiffrer ce poème grâce au super programme « Decrypt »
 
-# Decrypt
+## Decrypt
 
 Decrypt est un petit programme en C++ qui permet de déchiffrer un fichier texte dans lequel se trouve un mot caché. Le programme est réalisé avec la bibliothèque Qt.
 

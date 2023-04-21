@@ -41,18 +41,8 @@ Pour ce faire :
 cd DECRYTP/Executable_file
 ./DECRYPT
 ```
+Une fenêtre doit apparaitre :
 
-Pour utiliser le programme, il suffit de lancer votre application QT, d'ouvrir le projet "TP_Dechiffrage", d'executer le programme. Une fois cela fais, une fenetre apparait et il vous suffit d'entrer le nom du fichier à déchiffrer ("Poeme.txt" dans notre cas) dans la zone de texte prévue à cet effet. Ensuite, cliquez sur le bouton "Déchiffrer" pour afficher le mot caché dans le fichier.
-
-Assurez-vous de modifier le chemin de fichier texte à la ligne 30 et verifiez ce fichier se trouve dans le même répertoire que le projet.
-  </br>
-  <img src="Images/ligne30.png" alt="Message reçu terminal" height="25">
-  </br></br>
-</div>
-
-## Résultats
-
-Lorsque vous executez le programme, voici la fenetre qui apparait :
 <div>
     <img src="Images/Fenetre.png" width="433" height="182">
   </br></br>

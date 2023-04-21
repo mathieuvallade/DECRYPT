@@ -53,8 +53,7 @@ git clone git@github.com:mathieuvallade/DECRYPT.git
 ```
 ## Utilisation
 Maintenant que __DECRYPT__ est installé, nous pouvons bientôt déchiffrer notre incroyable poème pour y trouver le mot caché.
-Pour ce faire, allez dans le répertoire "Executable_file" où se trouve le fichier __DECRYPT__ et exécutez-le.
-Pour ce faire :
+Pour ce faire, allez dans le répertoire "Executable_file" où se trouve le fichier __DECRYPT__ et exécutez-le :
 
 ```
 cd DECRYTP/Executable_file
@@ -75,7 +74,7 @@ Cliquez ensuite sur le bouton __Déchiffrer__ et l'application va déchiffrer le
   </br></br>
 </div>
 Et voila, un jeu d'enfant vous voyez !
-Le mot caché était donc ELEPHANT ; 
+Le mot caché était donc ELEPHANT.
 
 La méthode utilisée pour cacher le mot "éléphant" dans le poème consiste à prendre la première lettre de chaque vers et à les assembler pour former le mot caché. C'est une technique de stéganographie appelée "acrostiche", où les lettres initiales d'un ensemble de mots ou de phrases forment un mot ou une phrase cachée. Dans ce cas précis, le mot caché est "éléphant" et il est formé par la première lettre de chaque vers du poème.
 

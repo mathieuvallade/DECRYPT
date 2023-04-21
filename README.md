@@ -16,11 +16,11 @@
 *Naviguant dans l'azur, il est le symbole de l'espoir,*
 
 *Témoignant de la beauté que recèle le pouvoir.*
-
+</div>
 __Chat GPT__
-
+</div>
 __21 Avril 2023__
-
+</div>
 
 
 

@@ -57,6 +57,7 @@ Cliquer ensuite sur __Déchiffrer__ et l'application dechiffrera le poème.
   </br></br>
 </div>
 Un jeu d'enfant vous voyez !
+Le mot caché était donc __ÉLÉPHANT__, chaque lettre de ce mot correspondent au première lettre de chaque vers.
 
 ## Auteur
 

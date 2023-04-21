@@ -34,6 +34,13 @@ ou
 git clone git@github.com:mathieuvallade/DECRYPT.git
 ```
 ## Utilisation
+Une fois l'installation faite, aller dans le repertoire "Executable_file" afin d'y trouver le fichier DECRYPT et de l'executer.
+Pour ce faire :
+
+```
+cd DECRYTP/Executable_file
+./DECRYPT
+```
 
 Pour utiliser le programme, il suffit de lancer votre application QT, d'ouvrir le projet "TP_Dechiffrage", d'executer le programme. Une fois cela fais, une fenetre apparait et il vous suffit d'entrer le nom du fichier à déchiffrer ("Poeme.txt" dans notre cas) dans la zone de texte prévue à cet effet. Ensuite, cliquez sur le bouton "Déchiffrer" pour afficher le mot caché dans le fichier.
 

@@ -23,11 +23,7 @@ Assurez-vous de modifier le chemin de fichier texte à la ligne 30 et verifiez c
 ## Résultats
 
 Lorsqu'on execute le programme, voici la fenetre qui apparait :
-<div align="center">
-  </br>
-  <img src="Images/Fenetre" alt="Message reçu terminal" height="25">
-  </br></br>
-</div>
+
 ## Auteur
 
 Ce programme a été développé par [Mathieu Vallade](https://github.com/mathieuvallade).

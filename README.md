@@ -22,6 +22,8 @@ __Chat GPT__
 __21 Avril 2023__
 
 
+
+
 C’est un magnifique poème n’est ce pas ! Et si je vous disais qu’un mot était caché dans ce poème me croirai vous ?
 
 Aller, suivez moi attentivement, je vais montrer comment déchiffrer ce poème grâce au super programme « Decrypt »

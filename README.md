@@ -30,11 +30,12 @@ Lorsque vous executez le programme, voici la fenetre qui apparait :
   </br></br>
 </div>
 
-Il vous suffit de rentrer le nom du fichier texte dans le zone prévue pour et la fênetre vous renverra le message caché.
+Il vous suffit de rentrer le nom du fichier texte dans le zone prévue pour et de cliquer sur "Déchiffrer". Ensuite, la fênetre vous renverra le message caché.
 <div align="center">
     <img src="Images/Result.png"  width="426" height="180">
   </br></br>
 </div>
+Un jeu d'enfant vous voyez !
 
 ## Auteur
 

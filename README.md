@@ -13,7 +13,7 @@ __Naviguant dans l'azur, il est le symbole de l'espoir,__
 __Témoignant de la beauté que recèle le pouvoir.__
 
 __*Chat GPT*__    
-*21 Avril 2023*
+__*21 Avril 2023*__
 
 
 C’est un magnifique poème n’est ce pas ! Et si je vous disais qu’un mot était caché dans ce poème me croirai vous ? Aller, suivez moi attentivement, je vais montrer comment déchiffrer ce poème grâce au super programme « Decrypt »

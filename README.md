@@ -12,7 +12,7 @@ __Apportant la paix à mon esprit tourmenté,__
 __Naviguant dans l'azur, il est le symbole de l'espoir,__  
 __Témoignant de la beauté que recèle le pouvoir.__
 
-*Chat GPT*  
+__*Chat GPT*__    
 *21 Avril 2023*
 
 

@@ -63,7 +63,7 @@ La méthode utilisée pour cacher le mot "éléphant" dans le poème consiste à
 
 ## À vous de jouer
 
-Et voilà, ma tâche est accomplie en vous guidant jusqu'ici. Maintenant, vous êtes libre de vous amuser en écrivant des poèmes et en y cachant des mots. Vous pouvez facilement le faire en modifiant le fichier Poeme.txt ou en créant un nouveau fichier. Grâce à DECRYPT, vous pourrez facilement retrouver les mots cachés et surprendre vos amis avec votre ingéniosité. Alors, amusez-vous bien !
+Et voilà, ma tâche est accomplie en vous guidant jusqu'ici. Maintenant, vous êtes libre de vous amuser en écrivant des poèmes et en y cachant des mots. Vous pouvez facilement le faire en modifiant le fichier Poeme.txt ou en créant un nouveau fichier. Grâce à __DECRYPT__, vous pourrez facilement retrouver les mots cachés dans vos poèmes et surprendre vos amis avec votre ingéniosité. Alors, amusez-vous bien !
 
 
 ## Auteur

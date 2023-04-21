@@ -18,8 +18,5 @@ Assurez-vous que le fichier à déchiffrer se trouve dans le même répertoire q
 
 ## Auteur
 
-Ce programme a été développé par [votre_nom](https://github.com/votre_nom).
+Ce programme a été développé par [Mathieu Vallade](https://github.com/mathieuvallade).
 
-## Licence
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.

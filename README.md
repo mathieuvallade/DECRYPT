@@ -61,6 +61,11 @@ Le mot caché était donc ELEPHANT !
 
 La méthode utilisée pour cacher le mot "éléphant" dans le poème consiste à prendre la première lettre de chaque vers et à les assembler pour former le mot caché. C'est une technique de stéganographie appelée "acrostiche", où les lettres initiales d'un ensemble de mots ou de phrases forment un mot ou une phrase cachée. Dans ce cas précis, le mot caché est "éléphant" et il est formé par la première lettre de chaque vers du poème.
 
+## À vous de jouer
+
+Et voilà, ma tâche est accomplie en vous guidant jusqu'ici. Maintenant, vous êtes libre de vous amuser en écrivant des poèmes et en y cachant des mots. Vous pouvez facilement le faire en modifiant le fichier Poeme.txt ou en créant un nouveau fichier libre. Grâce à DECRYPT, vous pourrez facilement retrouver les mots cachés et surprendre vos amis avec votre ingéniosité. Alors, amusez-vous bien !
+
+
 ## Auteur
 
 Ce programme a été développé par [Mathieu Vallade](https://github.com/mathieuvallade).

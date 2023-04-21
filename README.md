@@ -25,13 +25,13 @@ Assurez-vous de modifier le chemin de fichier texte à la ligne 30 et verifiez c
 ## Résultats
 
 Lorsque vous executez le programme, voici la fenetre qui apparait :
-<div align="center">
+<div>
     <img src="Images/Fenetre.png" width="433" height="182">
   </br></br>
 </div>
 
 Il vous suffit de rentrer le nom du fichier texte dans le zone prévue pour et de cliquer sur "Déchiffrer". Ensuite, la fênetre vous renverra le message caché.
-<div align="center">
+<div>
     <img src="Images/Result.png"  width="426" height="180">
   </br></br>
 </div>

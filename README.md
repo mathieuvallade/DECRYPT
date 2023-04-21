@@ -18,7 +18,7 @@ __*21 Avril 2023*__
 
 C’est un magnifique poème n’est ce pas ! Et si je vous disais qu’un mot était caché dans ce poème me croirai vous ? Aller, suivez moi attentivement, je vais montrer comment déchiffrer ce poème grâce au super programme __DECRYPT__.
 
-## Decrypt
+## DECRYPT
 
 __DECRYPT__ est un petit programme en C++ qui permet de déchiffrer un fichier texte dans lequel se trouve un mot caché. Le programme est réalisé avec la bibliothèque Qt.
 
@@ -34,14 +34,15 @@ ou
 git clone git@github.com:mathieuvallade/DECRYPT.git
 ```
 ## Utilisation
-Une fois l'installation faite, aller dans le repertoire "Executable_file" afin d'y trouver le fichier __DECRYPT__ et de l'executer.
+__DECRYPT__ est maintenant installé, nous allons bientot pouvoir dechiffrer notre incroyable poème afin d'y trouver le mot caché.
+Ensuite, aller dans le repertoire "Executable_file" afin d'y trouver le fichier __DECRYPT__ et l'executer.
 Pour ce faire :
 
 ```
 cd DECRYTP/Executable_file
 ./DECRYPT
 ```
-Le fichier  :
+L'application se lance et cette fenêtre apparait :
 
 <div>
     <img src="Images/Fenetre.png" width="433" height="182">

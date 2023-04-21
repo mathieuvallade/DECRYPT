@@ -49,8 +49,9 @@ L'application se lance et cette fenêtre apparait :
   </br></br>
 </div>
 
-Il vous suffit d'indiquer le nom du fichier texte ("Poeme.txt" dans notre cas),  ainsi que le chemin de ce fichier  __/home/yourmachinename/DECRYPT/Poeme.txt__
+Il vous suffit d'indiquer le nom du fichier texte ainsi que le chemin de ce fichier : __/home/yourmachinename/DECRYPT/Poeme.txt__
 
+Cliquer ensuite sur __Déchiffrer__ et l'application dechiffrera le poème.
 <div>
     <img src="Images/Result.png"  width="426" height="180">
   </br></br>
